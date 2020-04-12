@@ -91,11 +91,11 @@ print test ## Prints 'Test'
 
 # Chapter 7 - Files
 ## Glossary
-  catch - To prevent an exception from terminating a program using the try and except statements
-  newline - A character in a file indicating a new line, used to split a file into separate lines
-  Pythonic - A technique that works elegantly in Python
-  Quality Assurance - Team focused on insuring overal quality of a software product
-  text file - Sequence of characters stored in permanent storage like a hard drive
+  - *catch*: To prevent an exception from terminating a program using the try and except statements
+  - *newline*: A character in a file indicating a new line, used to split a file into separate lines
+  - *Pythonic*: A technique that works elegantly in Python
+  - *Quality Assurance*: Team focused on insuring overal quality of a software product
+  - *text file*:  Sequence of characters stored in permanent storage like a hard drive
 ## 7.1 Persistence
   - This chapter will cover the abilty to access Secondary Memory, which does not erase after termination of script
 ## 7.2 Opening Files
