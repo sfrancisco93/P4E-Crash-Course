@@ -1,4 +1,21 @@
 # Chapter 6 - Strings
+## Glossary
+- *counter*: A variable used to count something, initialized at 0 and incremented
+- *empty string*: A String variable without any characters and is length 0
+- *format operator*: An operator, %, takes a format string and a tuple and generates a string that includes the elements of the tuple formatted as specified by the format string
+- *format sequence* A sequence of characters in a format string, like %d, that specifies how a value should be formatted
+- *format string*: A string, used with a format operator, that contains format sequences
+- *flag*: A boolean variable used to indicate whether a condition is true or false.
+- *invocation*: A statement that calls a method.
+- *immuatable*: The property of a sequence whose items cannot be assigned.
+- *index*: An integer value used to select an item in a sequence, such as a character in a string
+- *item*: One of the values in a sequence
+- *method*: A function associated with an object and called using dot notation
+- *object*: Something a variable can refer to
+- *search*: A pattern of traversal that stops when it finds what it's looking for
+- *sequence*: An ordered set; that is, a set of values where each value is identified by an integer index
+- *slice*: A part of a string specified by a range of indices
+- *traverse*: To iterate through the items in a sequence, performing a similar operation on each
 ## 6.1 What is String
   - String is a sequence of characters
   - + means 'concatenate'
